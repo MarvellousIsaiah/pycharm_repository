@@ -1,0 +1,1 @@
+class InvalidNoOfPlayerErro(Exception):
